@@ -25,9 +25,13 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 Vue-Travel is a small application to learn and use Vue-Router:
 
-### SCREENSHOTS:
+# SCREENSHOTS:
+
+## Initial Screen:
 ![Initial Screen](Initial_screen.png)
 
+## Destination Screen:
 ![Destination Screen](Destination_screen.png)
 
+## Experiencies Screen:
 ![Experience Screen](Experience_Details.png)
